@@ -42,6 +42,10 @@ img {
 
 /* ====== Base =============================== */
 
+html {
+  scroll-behavior: smooth;
+}
+
 body {
   font: 400 1rem var(--body-font);
   color: var(--text-color);
