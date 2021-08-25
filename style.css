@@ -377,6 +377,7 @@ nav.show div.icon-close {
   margin-left: 0;
   margin-right: 0;
   overflow: hidden;
+  position: relative;
 }
 
 #testimonials header {
